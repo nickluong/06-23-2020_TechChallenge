@@ -1,0 +1,7 @@
+Server,InterfaceName,Bandwidth
+server1,eth0,20
+server1,eth1,40
+server2,eth0,80
+server3,eth0,5
+server3,eth1,10
+server4,eth0,160
